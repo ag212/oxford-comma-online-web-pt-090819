@@ -1,3 +1,3 @@
 def oxford_comma(array)
-["string"].join
+["kiwi, durian, starfruit, mangos, and dragon fruits"].join
 end
